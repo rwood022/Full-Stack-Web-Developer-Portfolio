@@ -1,0 +1,29 @@
+*/ {
+    color: rgb(33, 33, 110);
+}
+
+h1 {
+    text-align: center;
+    background-color: green;
+    width: 300px;
+}
+
+.rightside {
+    background-color: blueviolet;
+    text-align: right;
+    display: inline;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    background-color: cadetblue;
+}
+.aboutme {
+    background-color: chartreuse;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 800px;
+    border-radius: 20px;
+}
