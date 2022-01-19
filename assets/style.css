@@ -75,7 +75,7 @@ img {
     object-fit: cover;
 }
 
-.first div, .second, .third, .fourth, .resume {
+.first div, .second div, .third div, .resume {
     border: 9px solid cadetblue;
     margin: 10px;
     background-color: rgb(218, 214, 214);
@@ -94,8 +94,4 @@ img {
 } 
 .contacts li:hover {
     color: cadetblue;
-}
-
-.email:hover {
-    display: 
 }
