@@ -16,4 +16,4 @@
 
  ## Credits
 
- I was able to create this application with the help of my instructor, T.AA, tutors, and W3schools.
+ I was able to create this application with the help of my instructor, T.AA, tutors, stackoverflow, and W3schools.
