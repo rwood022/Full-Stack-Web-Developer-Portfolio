@@ -75,7 +75,7 @@ img {
     object-fit: cover;
 }
 
-.first div, .second div, .third div, .resume {
+.first div, .second div, .third div, .fourth div, .resume {
     border: 9px solid cadetblue;
     margin: 10px;
     background-color: rgb(218, 214, 214);
